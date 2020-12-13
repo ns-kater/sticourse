@@ -1,5 +1,7 @@
 if(a<b){ //Demo Git again
-    return a;
-}else{
     return b;
-}//test
+}else if(a=b){
+    return b,a;
+}else{
+    return a;
+}// we added to branch

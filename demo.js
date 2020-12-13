@@ -1,4 +1,4 @@
-if(a<b){
+if(a<b){ //Demo
     return a;
 }else{
     return b;
